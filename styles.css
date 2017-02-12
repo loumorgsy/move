@@ -311,5 +311,6 @@ footer h3 {
 
     .email-bg {
       height: 400px;
+      padding: 0;
     }
 }
