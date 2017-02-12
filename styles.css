@@ -297,7 +297,7 @@ footer h3 {
 /* MEDIA RESPONSIVE */
 
 @media screen and (max-width: 690px) {
-    
+
     .navigation a {
       display: inline;
       padding: 10px;
@@ -307,5 +307,9 @@ footer h3 {
 
     .navigation {
       margin-left: 20px;
+    }
+
+    .email-bg {
+      height: 400px;
     }
 }
